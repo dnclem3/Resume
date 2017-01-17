@@ -1,0 +1,27 @@
+body {
+  padding: 0px 25px 0px 25px;
+}
+
+.address {
+  text-align: center;
+}
+
+p.headline {
+  font-weight: bold;
+}
+
+p.title {
+  font-weight: bold;
+  text-align: center;
+}
+span.date {
+  float: right;
+  display: block;
+  font-weight: normal;
+}
+
+.skills {
+  display: inline-block;;
+  text-align: left;
+  list-style-type: circle;
+}
